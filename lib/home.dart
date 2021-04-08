@@ -14,7 +14,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Soromou'),
+        title: Text('Jacques'),
       ),
       /* body: StreamBuilder<DocumentSnapshot>(
         stream: Firestore.instance
